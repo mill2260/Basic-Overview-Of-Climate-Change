@@ -1,7 +1,7 @@
 # Basic-Overview-Of-Climate-Change
 <h1> Basic Understanding <h1>
 Climate change is a term we hear often, unfortunately it is sometimes mistaken for 
-<a href="https://www.nasa.gov/audience/forstudents/5-8/features/nasa-knows/what-is-climate-change-58.html">global warming</a>. It can be a challenging concept, however there are mulitple basic deffinitions and explantions that can help you understand.
+<a href="https://www.nasa.gov/audience/forstudents/5-8/features/nasa-knows/what-is-climate-change-58.html">global warming</a>. It can be a challenging concept, however there are multiple basic definitions and explanations that can help you understand.
 
 <h1> How is it Affecting You?? </h1> 
 
